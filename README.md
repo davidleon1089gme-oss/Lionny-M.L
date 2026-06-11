@@ -1,2 +1,2 @@
-# Lionny-M.L-Mi-primer-readme-aprendiendo-m
+# Lionny-M.L
 Personal project innovating ideas para mejorar
