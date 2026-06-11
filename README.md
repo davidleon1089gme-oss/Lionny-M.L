@@ -5,6 +5,6 @@
 Personal project innovating ideas for to improve<BR>
 | DESEMPEÑO | NOMBRE |
 |----------|----------|
-| FULLSTACK | David Leon |
+| FULLSTACK | DAVID LEON |
 | FULLSTACK | VILLEGAS |
 | PAYASITA  | TATIANA R |
